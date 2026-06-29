@@ -1,0 +1,6 @@
+{
+  "name": "Lab Maya",
+  "description": "Platform Laboratorium Virtual Interaktif untuk Pembelajaran Fisika dengan simulasi 2D interaktif, grafik real-time, lks digital, dan dashboard multi-role.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
